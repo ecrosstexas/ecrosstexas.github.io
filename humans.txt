@@ -1,0 +1,20 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+/* TEAM */
+
+    Creator: Eric Wallace.                    
+    Contact: eric [at] ecrosstexas [dot] com                      
+    Twitter: ecrostexas                        
+    Location: Plano, Texas, USA
+
+/* THANKS */
+
+    Name: name or url
+                            
+/* SITE */
+                            
+    Last update: 2019/10/09                           
+    Standards: HTML5, CSS3,..              
+    Components: Modernizr, jQuery, etc.            
+    Software: Software used for the development
